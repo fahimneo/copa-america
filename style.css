@@ -40,8 +40,8 @@ h1 {
 }
 .btn{
   text-decoration: none;
-  background-color: rgb(182, 77, 115);
-  color: rgba(255, 255, 255, 0.555);
+  background-color: rgb(202, 60, 110);
+  color: rgba(224, 181, 181, 0.555);
   font-weight: 500;
   font-size: 16px;
   Padding: 10px 24px 10px 24px;
@@ -127,14 +127,14 @@ h1 {
   height: 500px;
 }
 .form-section{
-  background:rgba(170, 121, 82, 0.527);
+  background:rgba(95, 104, 226, 0.527);
   width:30%;
   height:40vh;
   border-radius:5px;
   margin:auto;
   margin-bottom: 2% ;
   padding:4%; 
-  border: #292929 2px solid; 
+  border: #cab0b0 2px solid; 
   text-align: center;
 }
 .form-half{
@@ -328,13 +328,13 @@ textarea {
      height:550px;
    }
    .form-section{
-     background:rgba(170, 121, 82, 0.527);
+     background:rgba(40, 199, 125, 0.527);
      width:60%;
      height:500px;
      border-radius:5px;
      margin:auto;
      padding:2%; 
-     border: #292929 2px solid; 
+     border: #da4141 2px solid; 
      text-align: center;
    }
    .form-half{
@@ -347,9 +347,9 @@ textarea {
      height: 150px;
      padding: 12px 20px;
      box-sizing: border-box;
-     border: 2px solid #ccc;
+     border: 2px solid rgb(107, 102, 102);
      border-radius: 4px;
-     background-color: #f8f8f8;
+     background-color: #a19999;
      font-size: 16px;
    }
    
